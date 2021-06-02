@@ -25,10 +25,10 @@ Api: collectapi.com<br>
 <br>
 Demo : [a link](http://mertcanyigit.site/weather)
 <br>
-Example images:<br>
-<br>
-![alt text](resim.png)
-<br>
+Example images:
+
+![ScreenShot](/resim.png)
+
 ╭━╮╭━╮╱╱╱╱╭╮╱╱╱╱╱╱╱╱╱╱╭╮╱╱╭╮╱╱╱╭╮<br>
 ┃┃╰╯┃┃╱╱╱╭╯╰╮╱╱╱╱╱╱╱╱╱┃╰╮╭╯┃╱╱╭╯╰╮<br>
 ┃╭╮╭╮┣━━┳┻╮╭╋━━┳━━┳━╮╱╰╮╰╯╭╋━━╋╮╭╯<br>
