@@ -23,7 +23,7 @@ Css Framework is Boostrap.<br>
 <br>
 Api: collectapi.com<br>
 <br>
-Demo : [a link](http://mertcanyigit.site/weather)
+Demo : http://mertcanyigit.site/weather
 <br>
 Example images:
 
